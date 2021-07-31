@@ -4,7 +4,6 @@ html {
 
 * {
   box-sizing: border-box;
-   scroll-behavior: smooth;
 }
 
 /* 980px / 16px = 61.25em */
